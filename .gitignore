@@ -27,7 +27,18 @@ logs/
 
 .DS_Store
 
-!/01/gradle/
-!/02/gradle/
-!/03/gradle/
-!/04/gradle/
+!01/gradle/wrapper/gradle-wrapper.jar
+!02/gradle/wrapper/gradle-wrapper.jar
+!03/gradle/wrapper/gradle-wrapper.jar
+!04/gradle/wrapper/gradle-wrapper.jar
+!05/gradle/wrapper/gradle-wrapper.jar
+
+
+
+!01/gradle/wrapper/gradle-wrapper.properties
+!02/gradle/wrapper/gradle-wrapper.properties
+!03/gradle/wrapper/gradle-wrapper.properties
+!03/gradle/wrapper/gradle-wrapper.properties
+!04/gradle/wrapper/gradle-wrapper.properties
+!05/gradle/wrapper/gradle-wrapper.properties
+
