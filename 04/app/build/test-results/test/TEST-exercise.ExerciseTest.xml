@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.ExerciseTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-02-06T09:38:03" hostname="yrl6cnqc7c-mac" time="0.017">
+  <properties/>
+  <testcase name="testGenerateRandomBoolean()" classname="exercise.ExerciseTest" time="0.013"/>
+  <testcase name="testGetSpeedA()" classname="exercise.ExerciseTest" time="0.0"/>
+  <testcase name="testGetSpeedB()" classname="exercise.ExerciseTest" time="0.0"/>
+  <testcase name="testGetSpeedC()" classname="exercise.ExerciseTest" time="0.001"/>
+  <testcase name="testGetSpeedD()" classname="exercise.ExerciseTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
